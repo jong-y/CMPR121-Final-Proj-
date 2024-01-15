@@ -35,15 +35,6 @@ If an incorrect or invalid number is entered, the program will display a message
 The program has been carefully designed to prioritize reliability and scalability. It guarantees that access to private data is only granted through the program's public interface, ensuring security and confidentiality.
 Moreover, the program has been developed with ample storage capacity, allowing for easy and efficient storage and addition of data. This ensures that all necessary information can be accommodated without any inconvenience or limitations.
 
-
-## Usage
-
-Provide examples and explanations of how to use your project. Include code snippets, screenshots, or any relevant information.
-
-```bash
-npm start
-```
-
 ## Contributing
 
 Explain how others can contribute to your project. Include guidelines for submitting pull requests, reporting issues, and any coding standards.
