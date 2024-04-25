@@ -41,8 +41,6 @@ Explain how others can contribute to your project. Include guidelines for submit
 
 ## Credits
 
-Give credit to the group members who contributed to the project. Include their GitHub usernames and a brief description of their contributions.
-
 - https://github.com/sealarith
 - https://github.com/3ileen014
 
